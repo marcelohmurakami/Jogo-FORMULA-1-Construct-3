@@ -4,7 +4,7 @@ Descrição do jogo:
 - Formula 1 game se trata de um jogo de corrida de Fórmula 1, o jogador irá controlar a Mercedes de Lewis Hamilton e terá que enfrentar a lendária Renault de Fernando Alonso e a McLaren de Lando Norris e vencê-los em uma corrida de 3 voltas! O vencedor será aquele que cruzar a linha de chegada primeiro após 3 voltas completas.
 
 Instruções:
-- Para jogar utilize as setas do seu teclado para controlar o carro (Cima = ré, baixo = acelera, direita e esquerda = curvas)
+- Para jogar utilize as setas do seu teclado para controlar o carro (Cima = acelera, baixo = ré, direita e esquerda = curvas)
 
 Imagens do jogo:
 <p>
