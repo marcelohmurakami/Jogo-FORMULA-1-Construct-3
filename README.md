@@ -1,5 +1,5 @@
 <p>
-img src="https://github.com/marcelohmurakami/Jogo-FORMULA-1-Construct-3/assets/156522432/4c6500d6-1c69-41e4-a182-2adf004a2881"
+Imagem 1: "https://github.com/marcelohmurakami/Jogo-FORMULA-1-Construct-3/assets/156522432/4c6500d6-1c69-41e4-a182-2adf004a2881"
 </p>
 
 <p>
